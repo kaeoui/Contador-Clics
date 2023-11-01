@@ -7,7 +7,7 @@
 
 
 html, body {
-  background-color: purple;
+  background-color: rgb(162, 0, 255);
 
 }
 
@@ -28,7 +28,7 @@ html, body {
   margin: 20px;
 }
 
-.gato-logo {
+.gato {
   height: 200px;
   width: 200px;
 }
